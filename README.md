@@ -16,13 +16,6 @@ Features
 
 •	Modular Architecture: Source files are organized clearly into separate directories, making code management and expansion straightforward.
 
-Getting Started
-
-1. Clone the repository and navigate to the project root.
-2. Install the necessary dependencies using npm install.
-3. Run the tool with node index.js and follow the prompts.
-4. Your SVG will be generated and saved to the specified directory.
-
 Happy designing with SvGuru!
 
 ## Table of Contents
@@ -30,7 +23,6 @@ Happy designing with SvGuru!
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
-- [Tests](#tests)
 - [Questions](#questions)
 - [Walkthrough](#walkthrough)
 
@@ -38,16 +30,20 @@ Happy designing with SvGuru!
 Before using this application, ensure that NPM is installed.
 
 ## Usage
-The application can be executed using Node in the terminal.
+1. Clone the repository and navigate to the project root.
+2. Install the necessary dependencies using npm install.
+3. Run the tool with node index.js and follow the prompts.
+4. Your SVG will be generated and saved to the specified directory.
+
+For sample SVG logos, browse the 'examples' directory in this repo.
+
+For a detailed walkthrough, watch the video [here](#walkthrough)
 
 ## License
 This project is licensed under the MIT license.
 
 ## Contributing
 N/A
-
-## Tests
-Run node index.js in the terminal, follow the on-screen prompts to input your project details, and verify that a svg file is correctly generated in the "output" project directory.
 
 ## Questions
 For any questions, please contact me at [https://github.com/kojootchere](https://github.com/kojootchere) or [email me](mailto:kojootchere@gmail.com).
