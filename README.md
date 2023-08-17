@@ -37,7 +37,7 @@ Before using this application, ensure that NPM is installed.
 
 For sample SVG logos, browse the 'examples' directory in this repo.
 
-For a detailed walkthrough, watch the video [here](#walkthrough)
+For a detailed walkthrough, please visit the link in the [Walkthrough](#walkthrough) section.
 
 ## License
 This project is licensed under the MIT license.
